@@ -34,6 +34,11 @@ Serif is a modern business theme for Jekyll. It contains multiple content types 
 
 If this is your first time using Jekyll, please follow the [Jekyll docs](https://jekyllrb.com/docs/installation/) and make sure your local environment (including Ruby) is setup correctly.
 
+#### Install Ruby and Jekyll on Mac
+1. Install [Homebrew](https://brew.sh/)
+2. Install [rbenv](https://github.com/rbenv/rbenv)
+3. Install Ruby (latest is 3.2.2) with `rbenv`
+
 ### Installing Theme
 
 Download or clone the theme.
