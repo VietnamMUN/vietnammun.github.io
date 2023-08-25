@@ -1,8 +1,8 @@
 {
-    "originRepo": "https://github.com/zerostaticthemes/jekyll-serif-theme",
-    "title": "Jekyll Serif",
-    "description": "Serif is a multi page business theme for Jekyll.",
-    "demoUrl": "https://jekyll-advance.netlify.app",
+    "originRepo": "https://github.com/VietnamMUN/vietnammun.github.io",
+    "title": "VietnamMUN.org",
+    "description": "A site for the VietnamMUN.org",
+    "demoUrl": "https://vietnammun.github.io/",
     "categories": {
       "ssg": ["jekyll"],
       "css": ["bootstrap", "scss"],
