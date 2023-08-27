@@ -6,9 +6,9 @@ logo:
   mobile: "images/logo/logo-mobile-54x54.svg"
   mobile_height: "32px"
   mobile_width: "32px"
-  desktop: "images/logo/logo-380x42.svg"
+  desktop: "images/logo/logo-366x42.svg"
   desktop_height: "42px"
-  desktop_width: "380px"
+  desktop_width: "366px"
 
 home: 
   limit_services: 6
