@@ -1,13 +1,13 @@
 ---
 title: Home | VietnamMUN.org
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: A home for projects to promote, collect, and advance the best of the Vietnamese Model UN community.
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# VietnamMUN.org - Celebrate Model UN in Vietnam
+# Celebrating Model UN in Vietnam
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+A home for projects to promote, advance, and gather the best of the Vietnamese Model UN community.
