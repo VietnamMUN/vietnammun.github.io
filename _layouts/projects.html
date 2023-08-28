@@ -1,6 +1,6 @@
 ---
 layout: default
-bodyClass: "page-services"
+bodyClass: "page-projects"
 ---
 
 <div class="intro">
@@ -20,14 +20,14 @@ bodyClass: "page-services"
 
 <div class="container pt-6 pb-6">
   <div class="row">
-    {% for service in site.services %}
+    {% for project in site.projects %}
     <div class="col-12 col-md-6 mb-3">
-      <div class="service service-summary">
-        <div class="service-content">
-          <h2 class="service-title">
-            <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
+      <div class="project project-summary">
+        <div class="project-content">
+          <h2 class="project-title">
+            <a href="{{ project.url | relative_url }}">{{ project.title }}</a>
           </h2>
-          <p>{{ service.content | markdownify | strip_html | truncate: 100 }}</p>
+          <p>{{ project.content | markdownify | strip_html | truncate: 100 }}</p>
         </div>
       </div>
     </div>
