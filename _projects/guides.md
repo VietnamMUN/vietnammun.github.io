@@ -12,4 +12,4 @@ _VietnamMUN.org's Guides for Delegates, Chairs, and Organizers to Model UN_, or 
 
 Written by Viet Than, with contributions from the Vietnam Model UN community.
 
-[Read the Guides!]()
+[Read the Guides!](https://guides.vietnammun.org/)
