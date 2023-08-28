@@ -34,6 +34,8 @@ bodyClass: "page-teams"
                     <p class="team-description">{{ team.jobtitle }}</p>
                     {% if team.linkedinurl %}
                     <a target="_blank" href="{{ team.linkedinurl }}" rel="noreferrer">LinkedIn</a>
+                    {% else if team.externalurl %}
+                    <a target="_blank" href="{{ team.externalurl }}" rel="noreferrer">External Profile</a>
                     {% endif %}
                 </div>
                 <div class="team-content">{{ team.content | truncate: 120 }}</div>
