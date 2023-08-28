@@ -12,6 +12,9 @@ logo:
 
 home: 
   limit_projects: 3
+  # only excerpt up to here
+  excerpt_separator: <!--break-->
+  show_excerpts: true
 
 collections:
   projects:

@@ -5,3 +5,5 @@ weight: 2
 ---
 
 An open and free wiki for the Model UN community in Vietnam.
+
+<!--break-->
