@@ -2,7 +2,7 @@
 title: "Viet Than"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/peter-van-eijk-711986-unsplash.jpg"
-jobtitle: "Director"
+jobtitle: "Founder"
 linkedinurl: "https://www.linkedin.com/in/viet-than"
 # externalurl: "https://google.com"
 promoted: true
