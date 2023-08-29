@@ -27,7 +27,7 @@ bodyClass: "page-projects"
           <h2 class="project-title">
             <a href="{{ project.url | relative_url }}">{{ project.title }}</a>
           </h2>
-          <p>{{ project.content | markdownify | strip_html | truncate: 100 }}</p>
+          <p>{{ project.excerpt | markdownify | strip_html | truncate: 200 }}</p>
         </div>
       </div>
     </div>
