@@ -17,7 +17,7 @@ The static website for VietnamMUN.org . Built on [Jekyll Serif (Open Source) The
 ### Install project
 1. Clone the project
 ```shell
-$ git clone https://github.com/VietnamMUN/vietnammun.github.io.git
+$ git clone git@github.com:VietnamMUN/vietnammun.github.io.git
 $ cd vietnammun.github.io
 ```
 
