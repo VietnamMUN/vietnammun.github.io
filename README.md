@@ -2,6 +2,8 @@
 
 The static website for VietnamMUN.org . Built on [Jekyll Serif (Open Source) Theme](https://www.zerostatic.io/theme/jekyll-serif/) written by Robert Austin
 
+## TODO: code space installation
+
 ## Local Installation
 
 ### Installing Ruby & Jekyll
@@ -15,9 +17,10 @@ The static website for VietnamMUN.org . Built on [Jekyll Serif (Open Source) The
 2. Install Ruby (latest is 3.2.2) with `rbenv`
 
 ### Install project
-1. Clone the project
+1. Fork the project
+2. Clone the project
 ```shell
-$ git clone git@github.com:VietnamMUN/vietnammun.github.io.git
+$ git clone git@github.com:<YourGithubUsername>/vietnammun.github.io.git
 $ cd vietnammun.github.io
 ```
 
