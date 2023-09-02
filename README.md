@@ -17,7 +17,7 @@ The static website for VietnamMUN.org . Built on [Jekyll Serif (Open Source) The
 2. Install Ruby (latest is 3.2.2) with `rbenv`
 
 ### Install project
-1. Fork the project
+1. [Fork the project](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
 2. Clone the project
 ```shell
 $ git clone git@github.com:<YourGithubUsername>/vietnammun.github.io.git
