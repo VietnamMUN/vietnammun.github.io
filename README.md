@@ -38,3 +38,5 @@ $ bundle exec jekyll serve
 ```shell
 $ bundle exec jekyll build
 ```
+
+## TODO: add part about port request after change
