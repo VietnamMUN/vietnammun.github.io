@@ -2,9 +2,8 @@
 
 The static website for VietnamMUN.org . Built on [Jekyll Serif (Open Source) Theme](https://www.zerostatic.io/theme/jekyll-serif/) written by Robert Austin
 
-## TODO: code space installation
+## Codespace installation
 
-## Local Installation
 ### Install project
 1. [Fork the project](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
 2. [Create the Codespace](https://docs.github.com/en/codespaces/developing-in-codespaces/creating-a-codespace-for-a-repository)
@@ -24,6 +23,9 @@ $ bundle exec jekyll serve
 ```shell
 $ bundle exec jekyll build
 ```
+
+
+## Local Installation
 
 ### Installing Ruby & Jekyll
 #### Mac
@@ -58,4 +60,11 @@ $ bundle exec jekyll serve
 $ bundle exec jekyll build
 ```
 
-## TODO: add part about port request after change
+## add port request after change
+
+### Create pull request
+1. Open [Pull Requests tab](https://github.com/VietnamMUN/vietnammun.github.io/pulls)
+2. Click "New pull request button"
+3. click "compare accross forks."
+4. change head repository to your fork repository
+5. (Optional) [link pull request to an issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)
