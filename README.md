@@ -5,6 +5,25 @@ The static website for VietnamMUN.org . Built on [Jekyll Serif (Open Source) The
 ## TODO: code space installation
 
 ## Local Installation
+### Install project
+1. [Fork the project](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
+2. [Create the Codespace](https://docs.github.com/en/codespaces/developing-in-codespaces/creating-a-codespace-for-a-repository)
+
+
+3. Install bundle gems
+```shell
+$ bundle install
+```
+
+4. Run the server for development
+```shell
+$ bundle exec jekyll serve
+```
+
+5. (Optional) build the static project
+```shell
+$ bundle exec jekyll build
+```
 
 ### Installing Ruby & Jekyll
 #### Mac
