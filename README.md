@@ -2,7 +2,7 @@
 
 The static website for VietnamMUN.org . Built on [Jekyll Serif (Open Source) Theme](https://www.zerostatic.io/theme/jekyll-serif/) written by Robert Austin
 
-## Codespace installation (experimental)
+## Codespace installation (experimental never tried)
 
 ### Install project
 1. [Fork the project](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
