@@ -1,5 +1,5 @@
 ---
-title: Home | Vietnammun.org
+title: Home | VietnamMUN.org
 layout: home
 description: A home for projects to promote, collect, and advance the best of the Vietnamese Model UN community.
 intro_image: "images/illustrations/placard-1200x900.svg"
